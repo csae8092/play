@@ -1,0 +1,667 @@
+<?xml version="1.0" ?>
+<cx:apparatus xmlns:cx="http://interedition.eu/collatex/ns/1.0" xmlns="http://www.tei-c.org/ns/1.0">
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">ihre ungewöhnliche Einkleidung auf; sie scheinen nicht in den nüchternen sprachlichen</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml">Formen gegeben, deren sich unser Denken am liebsten bedient, sondern sind vielmehr in symbolischer Weise durch Gleichnisse und Metaphern, wie in bilderreicher Dichtersprache, dargestellt. Es ist nicht schwierig, für diesen Grad von Gebundenheit im Ausdruck der</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-6.xml">Traumgedanken die</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml">Motivirung</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">Motivierung</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-6.xml">Motivierung</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml">zu finden. Der Trauminhalt besteht zumeist aus anschaulichen Situationen; die Traumgedanken müssen also vorerst eine Zurichtung erfahren, welche sie für diese Darstellungsweise brauchbar macht. Man stelle sich etwa vor die Aufgabe, die Sätze</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-6.xml">zu finden. Der Trauminhalt besteht zumeist aus anschaulichen Situationen; die Traumgedanken müssen also vorerst eine Zurichtung erfahren, welche sie für diese Darstellungsweise brauchbar macht. Man stelle sich etwa vor die Aufgabe, die Sätze</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-5.xml">zu finden. Der Trauminhalt besteht zumeist aus anschaulichen Situationen; die Traumgedanken müssen also vorerst eine Zurichtung erfahren, welche sie für diese Darstellungsweise brauchbar macht. Man stelle sich etwa vor die Aufgabe, die Sätze</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml">eines</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-6.xml">politischen Leitartikels oder eines Plaidoyers im Gerichtssaal durch eine Folge von Bilderzeichnungen zu</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">politischen Leitartikels oder eines Plaidoyers im Gerichtssaal durch eine Folge von Bilderzeichnungen zu</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">ersetzen, und man wird dann leicht die Veränderungen verstehen, zu</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">welchen</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">welcher</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">die</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">Rücksicht</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">Rücksichtauf</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml">auf</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">aufDarstellbarkeit</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-6.xml">Darstellbarkeit</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">Darstellbarkeitim</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">im</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Trauminhalt die Traumarbeit</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">nötigt</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml">nöthigt</rdg>
+	</app>
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">. Unter dem psychischen Material der Traumgedanken befinden sich</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">. Unter dem psychischen Material der Traumgedanken befinden sich</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">regelmäßig</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml">regelmässig</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Erinnerungen an eindrucksvolle Erlebnisse</rdg>
+	</app>
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">, —</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">, —</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">nicht selten aus früher Kindheit</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml">nicht selten aus früher Kindheit</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">, —</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml">—</rdg>
+	</app>
+	 
+	die also selbst als Situationen mit meist visuellem Inhalt 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">erfaßt</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">erfasst</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">worden</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">werden</rdg>
+	</app>
+	 
+	sind. Wo es irgend möglich ist, 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">äußert</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">äussert</rdg>
+	</app>
+	 
+	dieser 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Bestandteil</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Bestandtheil</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">der Traumgedanken einen bestimmenden</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">der Traumgedanken einen bestimmenden</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">Einfluß</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">Einfluss</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">Einﬂuss</rdg>
+	</app>
+	 
+	auf die Gestaltung des Trauminhalts, indem er gleichsam als 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-6.xml">Kristallisationspunkt</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">Krystallisationspunkt</rdg>
+	</app>
+	 
+	anziehend und 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">verteilend</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">vertheilend</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">auf das Material der Traumgedanken wirkt. Die Traumsituation ist oft nichts anderes als eine</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">auf das Material der Traumgedanken wirkt. Die Traumsituation ist oft nichts anderes als eine</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">auf das Material der Traumgedanken wirkt. Die Traumsituation ist oft nichts anderes als eine</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-6.xml">modifizierte</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">modifizirte</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">modiﬁzierte</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">und durch Einschaltungen</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">und durch Einschaltungen</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">komplizierte</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">komplizirte</rdg>
+	</app>
+	 
+	Wiederholung eines solchen 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">eindrucksvollen</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">eindrucks- vollen</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">Erlebnisses; getreue und unvermengte Reproduktionen realer</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Erlebnisses; getreue und unvermengte Reproduktionen realer</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Szenen</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Scenen</rdg>
+	</app>
+	 
+	bringt der Traum hingegen nur 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">sehr</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">höchst</rdg>
+	</app>
+	 
+	selten. Der Trauminhalt besteht aber nicht 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">ausschließlich</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">ausschliesslich</rdg>
+	</app>
+	 
+	aus Situationen, sondern 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">schließt</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">schliesst</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">auch unvereinigte Brocken von visuellen Bildern, Reden und selbst Stücke von unveränderten Gedanken ein. Es wird daher vielleicht anregend wirken, wenn wir in knappster Weise die Darstellungsmittel mustern, welche der Traumarbeit zur Verfügung stehen, um in der</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">auch unvereinigte Brocken von visuellen Bildern, Reden und selbst Stücke von unveränderten Gedanken ein. Es wird daher vielleicht anregend wirken, wenn wir in knappster Weise die Darstellungsmittel mustern, welche der Traumarbeit zur Verfügung stehen, um in der</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">auch unvereinigte Brocken von visuellen Bildern, Reden und selbst Stücke von unveränderten Gedanken ein. Es wird daher vielleicht anregend wirken, wenn wir in knappster Weise die Darstellungsmittel mustern, welche der Traumarbeit zur Verfügung stehen, um in der</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">eigentümlichen</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">eigenthümlichen</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">Ausdrucksweise des Traumes die Traumgedanken wiederzugeben. Die Traumgedanken, welche wir durch die Analyse erfahren, zeigen sich uns als ein psychischer Komplex</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">Ausdrucksweise des Traumes die Traumgedanken wiederzugeben. Die Traumgedanken, welche wir durch die Analyse erfahren, zeigen sich uns als ein psychischer Komplex</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">von</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">vom</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">allerverwickeltstem Aufbau. Die Stücke desselben stehen in den mannigfaltigsten logischen Relationen</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">allerverwickeltstem Aufbau. Die Stücke desselben stehen in den mannigfaltigsten logischen Relationen</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">zueinander</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">zu einander</rdg>
+	</app>
+	; sie bilden 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">Vorderund</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Vorder- und</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Hintergrund, Bedingungen, Abschweifungen, Erläuterungen, Beweisgänge und Einsprüche. Fast</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">Hintergrund, Bedingungen, Abschweifungen, Erläuterungen, Beweisgänge und Einsprüche. Fast</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">regelmäßig</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">regelmässig</rdg>
+	</app>
+	 
+	steht neben einem Gedankengang sein kontradiktorisches Widerspiel. Diesem Material fehlt keiner der Charaktere, die uns von unserem wachen Denken her bekannt sind. Soll nun aus alledem ein Traum werden, so unterliegt dies psychische Material einer Pressung, die es ausgiebig verdichtet, einer inneren Zerbröckelung und Verschiebung, welche gleichsam neue Oberflächen schafft, und einer auswählenden Einwirkung durch die zur Situationsbildung tauglichsten 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Bestandteile</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Bestandtheile</rdg>
+	</app>
+	. 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Mit Rücksicht auf die Genese dieses Materials verdient ein solcher Vorgang den Namen einer „Regression“.</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">Die logischen Bande, welche das psychische Material bisher zusammengehalten hatten, gehen nun aber bei dieser Umwandlung zum Trauminhalt verloren. Die Traumarbeit übernimmt gleichsam nur den sachlichen Inhalt der Traumgedanken zur Bearbeitung. Der</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Die logischen Bande, welche das psychische Material bisher zusammengehalten hatten, gehen nun aber bei dieser Umwandlung zum Trauminhalt verloren. Die Traumarbeit übernimmt gleichsam nur den sachlichen Inhalt der Traumgedanken zur Bearbeitung. Der</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Die logischen Bande, welche das psychische Material bisher zusammengehalten hatten, gehen nun aber bei dieser Umwandlung zum Trauminhalt verloren. Die Traumarbeit übernimmt gleichsam nur den sachlichen Inhalt der Traumgedanken zur Bearbeitung. Der</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Analysenarbeit</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Traumdeutung</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">bleibt es überlassen</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">bleibt es überlassen</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">,</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">den Zusammenhang herzustellen, den die Traumarbeit vernichtet hat. Die Ausdrucksmittel des Traumes sind also kümmerlich zu nennen im Vergleich zu denen unserer Denksprache, doch braucht der Traum auf die Wiedergabe der logischen Relationen unter den Traumgedanken nicht völlig zu verzichten; es gelingt ihm vielmehr häufig genug, dieselben durch formale Charaktere seines eigenen Gefüges zu ersetzen. Der Traum wird zunächst dem unleugbaren Zusammenhang zwischen allen Stücken der Traumgedanken dadurch gerecht,</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">den Zusammenhang herzustellen, den die Traumarbeit vernichtet hat. Die Ausdrucksmittel des Traumes sind also kümmerlich zu nennen im Vergleich zu denen unserer Denksprache, doch braucht der Traum auf die Wiedergabe der logischen Relationen unter den Traumgedanken nicht völlig zu verzichten; es gelingt ihm vielmehr häufig genug, dieselben durch formale Charaktere seines eigenen Gefüges zu ersetzen. Der Traum wird zunächst dem unleugbaren Zusammenhang zwischen allen Stücken der Traumgedanken dadurch gerecht,</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">den Zusammenhang herzustellen, den die Traumarbeit vernichtet hat. Die Ausdrucksmittel des Traumes sind also kümmerlich zu nennen im Vergleich zu denen unserer Denksprache, doch braucht der Traum auf die Wiedergabe der logischen Relationen unter den Traumgedanken nicht völlig zu verzichten; es gelingt ihm vielmehr häufig genug, dieselben durch formale Charaktere seines eigenen Gefüges zu ersetzen. Der Traum wird zunächst dem unleugbaren Zusammenhang zwischen allen Stücken der Traumgedanken dadurch gerecht,</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">daß</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">dass</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">daß</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">er dieses Material zu einer Situation vereinigt. Er</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">er dieses Material zu einer Situation vereinigt. Er</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">gibt</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">giebt</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">logischen Zusammenhang</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">logischenZusammenhang</rdg>
+	</app>
+	 
+	wieder als Annäherung in Zeit 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">und Raum</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">und Raum</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">undRaum</rdg>
+	</app>
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">, ähnlich wie der Maler, der alle Dichter zum Bild des</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">, ähnlich wie der Maler, der alle Dichter zum Bild des</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">, ähnlich wie der Maler, der alle Dichter zum Bild des</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">Parnaß</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Parnass</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">zusammenstellt, die niemals auf einem Berggipfel beisammen gewesen sind, wohl aber begrifflich eine Gemeinschaft bilden. Er setzt diese Darstellungsweise</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">zusammenstellt, die niemals auf einem Berggipfel beisammen gewesen sind, wohl aber begrifflich eine Gemeinschaft bilden. Er setzt diese Darstellungsweise</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">zusammenstellt, die niemals auf einem Berggipfel beisammen gewesen sind, wohl aber begrifflich eine Gemeinschaft bilden. Er setzt diese Darstellungsweise</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">ins</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">in</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">'</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">’</rdg>
+	</app>
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">s</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">Einzelne fort, und</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">Einzelne fort, und</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">Einzelne fort, und</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">so</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">oft</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">oft</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">, wenn</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">er zwei Elemente nahe bei einander im Trauminhalt zeigt, bürgt er für einen besonders innigen Zusammenhang zwischen ihren Entsprechenden in den Traumgedanken. Es ist hier übrigens zu bemerken,</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">er zwei Elemente nahe bei einander im Trauminhalt zeigt, bürgt er für einen besonders innigen Zusammenhang zwischen ihren Entsprechenden in den Traumgedanken. Es ist hier übrigens zu bemerken,</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">er zwei Elemente nahe bei einander im Trauminhalt zeigt, bürgt er für einen besonders innigen Zusammenhang zwischen ihren Entsprechenden in den Traumgedanken. Es ist hier übrigens zu bemerken,</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">daß</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">dass</rdg>
+	</app>
+	 
+	alle in derselben Nacht 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">produzierten</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">produzierten</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">produzirten</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">Träume bei der Analyse ihre Herkunft aus dem nämlichen</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">Träume bei der Analyse ihre Herkunft aus dem nämlichen</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">Träume bei der Analyse ihre Herkunft aus dem nämlichen</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Gedankenkreis</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Gedankenkreise</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">erkennen lassen. Die Kausalbeziehung zwischen zwei Gedanken wird entweder ohne Darstellung gelassen oder ersetzt durch das Nacheinander von zwei verschieden langen Traumstücken. Häufig ist diese Darstellung eine verkehrte, indem der Anfang des Traumes die Folgerung, der</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">erkennen lassen. Die Kausalbeziehung zwischen zwei Gedanken wird entweder ohne Darstellung gelassen oder ersetzt durch das Nacheinander von zwei verschieden langen Traumstücken. Häufig ist diese Darstellung eine verkehrte, indem der Anfang des Traumes die Folgerung, der</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">erkennen lassen. Die Kausalbeziehung zwischen zwei Gedanken wird entweder ohne Darstellung gelassen oder ersetzt durch das Nacheinander von zwei verschieden langen Traumstücken. Häufig ist diese Darstellung eine verkehrte, indem der Anfang des Traumes die Folgerung, der</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">Schluß</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Schluss</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">desselben die Voraussetzung bringt. Die direkte Verwandlung eines Dinges in ein anderes im Traum scheint die Relation von Ursache und Wirkung darzustellen. Die Alternative „Entweder—Oder“ drückt der Traum niemals aus</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">desselben die Voraussetzung bringt. Die direkte Verwandlung eines Dinges in ein anderes im Traum scheint die Relation von Ursache und Wirkung darzustellen. Die Alternative „Entweder—Oder“ drückt der Traum niemals aus</rdg>
+	</app>
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml">,</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">.</rdg>
+	</app>
+	 
+	sondern nimmt ihre beiden Glieder wie gleichberechtigt in den nämlichen Zusammenhang auf. 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">Daß</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Dass</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">ein Entweder—Oder, welches bei der Traumreproduktion gebraucht wird, durch „Und“ zu übersetzen ist, habe ich bereits erwähnt. Vorstellungen, die im Gegensatz zu einander stehen, werden mit Vorliebe</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">ein Entweder—Oder, welches bei der Traumreproduktion gebraucht wird, durch „Und“ zu übersetzen ist, habe ich bereits erwähnt. Vorstellungen, die im Gegensatz zu einander stehen, werden mit Vorliebe</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">ein Entweder—Oder, welches bei der Traumreproduktion gebraucht wird, durch „Und“ zu übersetzen ist, habe ich bereits erwähnt. Vorstellungen, die im Gegensatz zu einander stehen, werden mit Vorliebe</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">im Traume</rdg>
+	</app>
+	 
+	durch das nämliche Element 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">ausgedrückt1).</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">im Traum</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">ausgedrückt.</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">ausgedrückt.</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">1</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">1</rdg>
+	</app>
+	 
+	Das „nicht“ scheint für den Traum nicht zu 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">existieren</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">existiren</rdg>
+	</app>
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">. Opposition zwischen zwei Gedanken, die Relation der Umkehrung</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">. Opposition zwischen zwei Gedanken, die Relation der Umkehrung</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">. Opposition zwischen zwei Gedanken, die Relation der Umkehrung</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">,</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">findet eine höchst</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">findet eine höchst</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">bemerkenswerte</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">bemerkenswerthe</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">Darstellung im Traum. Sie wird dadurch ausgedrückt,</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Darstellung im Traum. Sie wird dadurch ausgedrückt,</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">daß</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">dass</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">ein anderes Stück des Trauminhaltes — gleichsam wie nachträglich</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">ein anderes Stück des Trauminhaltes — gleichsam wie nachträglich</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">—</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">—</rdg>
+	</app>
+	 
+	in sein 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Gegenteil</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Gegentheil</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">verkehrt wird. Eine andere Art, Widerspruch auszudrücken, werden wir später</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">verkehrt wird. Eine andere Art, Widerspruch auszudrücken, werden wir später</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">kennenlernen</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">kennen lernen</rdg>
+	</app>
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">. Auch die im Traum so häufige Sensation der</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">. Auch die im Traum so häufige Sensation der</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">gehemmtenBewegung</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">gehemmten Bewegung</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">dient dazu, einen Widerspruch zwischen Impulsen, einen Willenskonflikt</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">dient dazu, einen Widerspruch zwischen Impulsen, einen Willenskonflikt</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">dient dazu, einen Widerspruch zwischen Impulsen, einen Willenskonflikt</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">dient dazu, einen Widerspruch zwischen Impulsen, einen Willenskonflikt</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">,</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">,</rdg>
+	</app>
+	 
+	darzustellen. Einer einzigen unter den logischen Relationen, der der 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Ähnlichkeit</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Aehnlichkeit</rdg>
+	</app>
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml">, Gemeinsamkeit,</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">, Gemeinsamkeit,</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">Übereinstimmung</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Übereinstimmung</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Uebereinstimmung</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-3.xml">,</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">kommt der Mechanismus</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-3.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">kommt der Mechanismus</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">der Traumbildung im höchsten</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">der Traumbildung im höchsten</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Ausmaße</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Ausmasse</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-6.xml">zugute</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">zu Gute</rdg>
+	</app>
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">. Die Traumarbeit bedient sich dieser Fälle als Stützpunkte</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">. Die Traumarbeit bedient sich dieser Fälle als Stützpunkte</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">für</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">ffür</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">die Traumverdichtung</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">die Traumverdichtung</rdg>
+	</app>
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-6.xml">,</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">.</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">indem sie alles, was solche</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">Übereinstimmung</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">Übereinstimmung</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml #010___uber-den-traum__druckversion-4.xml">Uebereinstimmung</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">zeigt, zu einer</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-2.xml">zeigt, zu einer</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-4.xml">neuenEinheit</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion-6.xml #010___uber-den-traum__druckversion.xml">neuen Einheit</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">zusammenzieht. Diese kurze Reihe von groben Bemerkungen reicht natürlich   nicht aus, um die ganze Fülle der formalen Darstellungsmittel des Traumes für die</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">zusammenzieht. Diese kurze Reihe von groben Bemerkungen reicht natürlich nicht aus, um die ganze Fülle der formalen Darstellungsmittel des Traumes für die</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-6.xml">zusammenzieht. Diese kurze Reihe von groben Bemerkungen reicht natürlich nicht aus, um die ganze Fülle der formalen Darstellungsmittel des Traumes für die</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-1.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion-5.xml #010___uber-den-traum__druckversion.xml">logischen Relationen</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">der Traumgedanken zu würdigen. Die einzelnen Träume sind in dieser Hinsicht feiner oder nachlässiger gearbeitet, sie haben sich an den ihnen vorliegenden Text mehr oder minder sorgfältig gehalten, die Hilfsmittel der Traumarbeit mehr oder</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml">der Traumgedanken zu würdigen. Die einzelnen Träume sind in dieser Hinsicht feiner oder nachlässiger gearbeitet, sie haben sich an den ihnen vorliegenden Text mehr oder minder sorgfältig gehalten, die Hilfsmittel der Traumarbeit mehr oder</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion.xml">der Traumgedanken zu würdigen. Die einzelnen Träume sind in dieser Hinsicht feiner oder nachlässiger gearbeitet, sie haben sich an den ihnen vorliegenden Text mehr oder minder sorgfältig gehalten, die Hilfsmittel der Traumarbeit mehr oder</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion.xml">weniger</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-1.xml">weniger</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-4.xml">Weniger</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-4.xml #010___uber-den-traum__druckversion.xml">weit</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-4.xml">in Anspruch genommen. Im letzteren Falle erscheinen sie dunkel, verworren, unzusammenhängend. Wo</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml #010___uber-den-traum__druckversion-4.xml">der</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-5.xml">der</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-0.xml">Traum aber greifbar</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-4.xml">Traum aber greifbar</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-4.xml">absurd erscheint, einen offenbaren Widersinn in seinem Inhalt einschliesst, da ist er so mit Absicht und bringt durch seine scheinbare Vernachlässigung aller logischen Anforderungen ein Stück vom intellektuellen Inhalt</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-3.xml">der</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion-4.xml">der</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-4.xml">Traumgedanken, zum Ausdruck. Absurdität im Traum bedeutet Widerspruch, Spott und Hohn</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-4.xml">in</rdg>
+		<rdg wit="#010___uber-den-traum__druckversion.xml">in</rdg>
+	</app>
+	 
+	<app>
+		<rdg wit="#010___uber-den-traum__druckversion-4.xml">dem Traum- gedanken. Da diese Aufklärung den stärksten Einwand gegen die Auffassung</rdg>
+	</app>
+</cx:apparatus>
+
