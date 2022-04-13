@@ -1,3 +1,4 @@
 env.secret
 env/
 out/
+newProject.xpr
