@@ -16,7 +16,9 @@ out = CxCollate(
     chunk_size=5000,
 ).collate()
 
-files = glob.glob(f"{output_dir}/*.xml")
+
+files = glob.glob(f"{output_dir}/*.tei")
+print(len(files))
 full_doc = merge_tei_fragments(files)
 
 with open(f'{werk_path}.xml', 'w') as f:
